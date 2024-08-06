@@ -1,0 +1,155 @@
+{
+  "time_per_question": 60,
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "type": "multiple_choice",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "correct_option_index": 2
+    },
+    {
+      "question": "Is the sky blue?",
+      "type": "true_false",
+      "options": ["True", "False"],
+      "correct_option_index": 0
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "type": "multiple_choice",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correct_option_index": 1
+    },
+    {
+      "question": "Does water boil at 100 degrees Celsius?",
+      "type": "true_false",
+      "options": ["True", "False"],
+      "correct_option_index": 0
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "type": "multiple_choice",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correct_option_index": 3
+    },
+    {
+      "question": "Is Mount Everest the tallest mountain in the world?",
+      "type": "true_false",
+      "options": ["True", "False"],
+      "correct_option_index": 0
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "type": "multiple_choice",
+      "options": ["Oxygen", "Gold", "Silver", "Iron"],
+      "correct_option_index": 0
+    },
+    {
+      "question": "Is Australia a country and a continent?",
+      "type": "true_false",
+      "options": ["True", "False"],
+      "correct_option_index": 0
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "type": "multiple_choice",
+      "options": ["0", "1", "2", "3"],
+      "correct_option_index": 2
+    },
+    {
+      "question": "Is the Great Wall of China visible from space?",
+      "type": "true_false",
+      "options": ["True", "False"],
+      "correct_option_index": 1
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "type": "multiple_choice",
+      "options": ["CO2", "H2O", "O2", "H2"],
+      "correct_option_index": 1
+    },
+    {
+      "question": "Is the Amazon rainforest located in Africa?",
+      "type": "true_false",
+      "options": ["True", "False"],
+      "correct_option_index": 1
+    },
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "type": "multiple_choice",
+      "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+      "correct_option_index": 1
+    },
+    {
+      "question": "Does the moon produce its own light?",
+      "type": "true_false",
+      "options": ["True", "False"],
+      "correct_option_index": 1
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "type": "multiple_choice",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correct_option_index": 2
+    },
+    {
+      "question": "Is the chemical symbol for gold 'Au'?",
+      "type": "true_false",
+      "options": ["True", "False"],
+      "correct_option_index": 0
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "type": "multiple_choice",
+      "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+      "correct_option_index": 0
+    },
+    {
+      "question": "Does an adult human have 206 bones?",
+      "type": "true_false",
+      "options": ["True", "False"],
+      "correct_option_index": 0
+    },
+    {
+      "question": "Which gas is most abundant in the Earth's atmosphere?",
+      "type": "multiple_choice",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correct_option_index": 2
+    },
+    {
+      "question": "Is light a form of energy?",
+      "type": "true_false",
+      "options": ["True", "False"],
+      "correct_option_index": 0
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "type": "multiple_choice",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "correct_option_index": 2
+    },
+    {
+      "question": "Does the sun rise in the east?",
+      "type": "true_false",
+      "options": ["True", "False"],
+      "correct_option_index": 0
+    },
+    {
+      "question": "Which is the hardest natural substance on Earth?",
+      "type": "multiple_choice",
+      "options": ["Gold", "Iron", "Diamond", "Silver"],
+      "correct_option_index": 2
+    },
+    {
+      "question": "Is the boiling point of water 100 degrees Fahrenheit?",
+      "type": "true_false",
+      "options": ["True", "False"],
+      "correct_option_index": 1
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "type": "multiple_choice",
+      "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+      "correct_option_index": 2
+    }
+  ]
+}

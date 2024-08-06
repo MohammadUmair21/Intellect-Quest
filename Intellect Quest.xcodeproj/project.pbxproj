@@ -11,6 +11,14 @@
 		8032E8BB2C51019F00F647D0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8032E8BA2C51019F00F647D0 /* ContentView.swift */; };
 		8032E8BD2C5101A000F647D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8032E8BC2C5101A000F647D0 /* Assets.xcassets */; };
 		8032E8C02C5101A000F647D0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8032E8BF2C5101A000F647D0 /* Preview Assets.xcassets */; };
+		8032E8C92C51174E00F647D0 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8032E8C82C51174E00F647D0 /* ProfileView.swift */; };
+		8032E8CB2C51175C00F647D0 /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8032E8CA2C51175C00F647D0 /* HistoryView.swift */; };
+		8032E8CD2C51177100F647D0 /* GradientBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8032E8CC2C51177100F647D0 /* GradientBackground.swift */; };
+		8032E8CF2C51179000F647D0 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8032E8CE2C51179000F647D0 /* HomeView.swift */; };
+		8032E8D12C51179C00F647D0 /* QuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8032E8D02C51179C00F647D0 /* QuizView.swift */; };
+		8032E8D32C5117B400F647D0 /* QuizHistoryManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8032E8D22C5117B400F647D0 /* QuizHistoryManager.swift */; };
+		8032E8D52C5117CA00F647D0 /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8032E8D42C5117CA00F647D0 /* ResultView.swift */; };
+		8032E8D72C5117F900F647D0 /* quiz.json in Resources */ = {isa = PBXBuildFile; fileRef = 8032E8D62C5117F900F647D0 /* quiz.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +27,14 @@
 		8032E8BA2C51019F00F647D0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8032E8BC2C5101A000F647D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8032E8BF2C5101A000F647D0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8032E8C82C51174E00F647D0 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		8032E8CA2C51175C00F647D0 /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
+		8032E8CC2C51177100F647D0 /* GradientBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBackground.swift; sourceTree = "<group>"; };
+		8032E8CE2C51179000F647D0 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		8032E8D02C51179C00F647D0 /* QuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizView.swift; sourceTree = "<group>"; };
+		8032E8D22C5117B400F647D0 /* QuizHistoryManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizHistoryManager.swift; sourceTree = "<group>"; };
+		8032E8D42C5117CA00F647D0 /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
+		8032E8D62C5117F900F647D0 /* quiz.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = quiz.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +69,15 @@
 			children = (
 				8032E8B82C51019F00F647D0 /* Intellect_QuestApp.swift */,
 				8032E8BA2C51019F00F647D0 /* ContentView.swift */,
+				8032E8CC2C51177100F647D0 /* GradientBackground.swift */,
+				8032E8CE2C51179000F647D0 /* HomeView.swift */,
+				8032E8D02C51179C00F647D0 /* QuizView.swift */,
+				8032E8D22C5117B400F647D0 /* QuizHistoryManager.swift */,
+				8032E8D42C5117CA00F647D0 /* ResultView.swift */,
+				8032E8CA2C51175C00F647D0 /* HistoryView.swift */,
+				8032E8C82C51174E00F647D0 /* ProfileView.swift */,
 				8032E8BC2C5101A000F647D0 /* Assets.xcassets */,
+				8032E8D62C5117F900F647D0 /* quiz.json */,
 				8032E8BE2C5101A000F647D0 /* Preview Content */,
 			);
 			path = "Intellect Quest";
@@ -127,6 +151,7 @@
 			files = (
 				8032E8C02C5101A000F647D0 /* Preview Assets.xcassets in Resources */,
 				8032E8BD2C5101A000F647D0 /* Assets.xcassets in Resources */,
+				8032E8D72C5117F900F647D0 /* quiz.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +162,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8032E8CD2C51177100F647D0 /* GradientBackground.swift in Sources */,
+				8032E8D32C5117B400F647D0 /* QuizHistoryManager.swift in Sources */,
+				8032E8D52C5117CA00F647D0 /* ResultView.swift in Sources */,
 				8032E8BB2C51019F00F647D0 /* ContentView.swift in Sources */,
+				8032E8CB2C51175C00F647D0 /* HistoryView.swift in Sources */,
+				8032E8CF2C51179000F647D0 /* HomeView.swift in Sources */,
+				8032E8D12C51179C00F647D0 /* QuizView.swift in Sources */,
+				8032E8C92C51174E00F647D0 /* ProfileView.swift in Sources */,
 				8032E8B92C51019F00F647D0 /* Intellect_QuestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
